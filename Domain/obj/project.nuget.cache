@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wU8VdAWEULY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\STTL\\Downloads\\pdffile\\pdffile\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\STTL\\.nuget\\packages\\graphql.client\\6.1.0\\graphql.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\STTL\\.nuget\\packages\\graphql.client.abstractions\\6.1.0\\graphql.client.abstractions.6.1.0.nupkg.sha512",
+    "C:\\Users\\STTL\\.nuget\\packages\\graphql.client.abstractions.websocket\\6.1.0\\graphql.client.abstractions.websocket.6.1.0.nupkg.sha512",
+    "C:\\Users\\STTL\\.nuget\\packages\\graphql.client.serializer.newtonsoft\\6.1.0\\graphql.client.serializer.newtonsoft.6.1.0.nupkg.sha512",
+    "C:\\Users\\STTL\\.nuget\\packages\\graphql.primitives\\6.1.0\\graphql.primitives.6.1.0.nupkg.sha512",
+    "C:\\Users\\STTL\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\STTL\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

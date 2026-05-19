@@ -1,0 +1,8 @@
+﻿query GetUserById($id: Int!) {
+  users(where: {id: {_eq: $id}}) {
+    id
+    username
+    first_name
+    last_name
+  }
+}
