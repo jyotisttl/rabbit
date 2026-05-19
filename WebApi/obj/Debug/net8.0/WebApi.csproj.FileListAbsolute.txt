@@ -1,0 +1,578 @@
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\MediatR.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Npgsql.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Serilog.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Application.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Domain.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Application.pdb
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\IPADS V2 LAPTOP 2\source\repos\IPADV2\WebApi\bin\Debug\net8.0\Domain.pdb
+D:\Samir\Samir\IPADV2\IPADV2\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+D:\Samir\Samir\IPADV2\IPADV2\WebApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Samir\Samir\IPADV2\IPADV2\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samir\Samir\IPADV2\IPADV2\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+D:\Samir\Samir\IPADV2\IPADV2\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+D:\Samir\Samir\IPADV2\IPADV2\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+D:\Samir\Samir\IPADV2\IPADV2\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\appsettings.json
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\WebApi.exe
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\WebApi.deps.json
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\WebApi.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\WebApi.pdb
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\AutoMapper.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\FluentValidation.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\GraphQL.Client.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\GraphQL.Client.Abstractions.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\GraphQL.Client.Abstractions.Websocket.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\GraphQL.Client.Serializer.Newtonsoft.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\GraphQL.Primitives.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\MediatR.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Npgsql.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\System.Reactive.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\System.Text.Json.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Application.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Domain.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Graphql.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Infrastructure.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Application.pdb
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Domain.pdb
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Graphql.pdb
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Infrastructure.pdb
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\swae.build.ex.cache
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.pdb
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+D:\Samir\Samir\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\appsettings.json
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\WebApi.exe
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\WebApi.deps.json
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\WebApi.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\WebApi.pdb
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\AutoMapper.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\FluentValidation.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\GraphQL.Client.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\GraphQL.Client.Abstractions.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\GraphQL.Client.Abstractions.Websocket.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\GraphQL.Client.Serializer.Newtonsoft.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\GraphQL.Primitives.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\MediatR.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Npgsql.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\System.Reactive.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\System.Text.Json.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Application.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Domain.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Graphql.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Infrastructure.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Application.pdb
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Domain.pdb
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Graphql.pdb
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Infrastructure.pdb
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\swae.build.ex.cache
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.pdb
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+D:\Samir\Samir\March_2026\19-03-2026\19-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Graphql\User\GetUserInfoById.graphql
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\appsettings.json
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\WebApi.exe
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Graphql\User\GetUserInfoById.graphql
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\WebApi.deps.json
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\WebApi.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\WebApi.pdb
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\AutoMapper.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\FluentValidation.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\GraphQL.Client.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\GraphQL.Client.Abstractions.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\GraphQL.Client.Abstractions.Websocket.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\GraphQL.Client.Serializer.Newtonsoft.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\GraphQL.Primitives.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\MediatR.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Npgsql.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\System.Reactive.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\System.Text.Json.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Application.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Domain.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Graphql.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Infrastructure.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Application.pdb
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Domain.pdb
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Graphql.pdb
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\bin\Debug\net8.0\Infrastructure.pdb
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\swae.build.ex.cache
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.pdb
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+D:\Samir\Samir\March_2026\23-03-2026\IPADV2\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\appsettings.json
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\WebApi.exe
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Graphql\User\GetUserInfoById.graphql
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\WebApi.deps.json
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\WebApi.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\WebApi.pdb
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\AutoMapper.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\FluentValidation.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\GraphQL.Client.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\GraphQL.Client.Abstractions.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\GraphQL.Client.Abstractions.Websocket.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\GraphQL.Client.Serializer.Newtonsoft.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\GraphQL.Primitives.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\MediatR.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Npgsql.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Serilog.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\System.Reactive.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\System.Text.Json.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Application.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Domain.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Graphql.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Infrastructure.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Application.pdb
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Domain.pdb
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Graphql.pdb
+D:\git_5\IPADSv2_BackendAPI\WebApi\bin\Debug\net8.0\Infrastructure.pdb
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\swae.build.ex.cache
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\WebApi.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\WebApi.pdb
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+D:\git_5\IPADSv2_BackendAPI\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Graphql\User\GetUserInfoById.graphql
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\GraphQL.Client.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\GraphQL.Client.Abstractions.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\GraphQL.Client.Abstractions.Websocket.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\GraphQL.Client.Serializer.Newtonsoft.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\GraphQL.Primitives.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\MediatR.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Npgsql.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Serilog.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Application.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Domain.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Graphql.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Application.pdb
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Domain.pdb
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Graphql.pdb
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\STTL\Downloads\pdffile\pdffile\WebApi\obj\Debug\net8.0\ref\WebApi.dll

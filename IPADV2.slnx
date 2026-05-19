@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Application/Application.csproj" />
+  <Project Path="Domain/Domain.csproj" />
+  <Project Path="Graphql/Graphql.csproj" Id="4c48a1c8-0ae2-4a3d-b692-91a5edc96651" />
+  <Project Path="Infrastructure/Infrastructure.csproj" />
+  <Project Path="UnitTest/UnitTest.csproj" />
+  <Project Path="WebApi/WebApi.csproj" />
+</Solution>
