@@ -41,8 +41,21 @@ namespace Infrastructure.Repositories.Users
         }
 
 
+        public async Task<User?> GetByEmailAsync(string email, CancellationToken cancellationToken = default)
+        {
+            return await _db.Users.FirstOrDefaultAsync(x => x.Email == email, cancellationToken);
+        }
+
+
         public async Task UpdateAsync(User user, CancellationToken cancellationToken = default)
         {
+            _db.Users.Update(user);
+            await _db.SaveChangesAsync(cancellationToken);
+        }
+
+        public async Task<bool> ExistsAsync(string username, string email, CancellationToken cancellationToken = default)
+        {
+            return await _db.Users.AnyAsync(x => x.Username == username || x.Email == email, cancellationToken);
         }
     }
 }

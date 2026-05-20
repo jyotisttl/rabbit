@@ -35,6 +35,12 @@ namespace UnitTest.Application.Tests
             return Task.FromResult(user);
         }
 
+        public Task<User?> GetByEmailAsync(string email, CancellationToken cancellationToken = default)
+        {
+            var user = _users.FirstOrDefault(x => x.Email == email);
+            return Task.FromResult(user);
+        }
+
         public Task UpdateAsync(User user, CancellationToken cancellationToken = default)
         {
             var index = _users.FindIndex(x => x.Id == user.Id);
@@ -43,6 +49,12 @@ namespace UnitTest.Application.Tests
                 _users[index] = user;
             }
             return Task.CompletedTask;
+        }
+
+        public Task<bool> ExistsAsync(string username, string email, CancellationToken cancellationToken = default)
+        {
+            var exists = _users.Any(x => x.Username == username || x.Email == email);
+            return Task.FromResult(exists);
         }
     }
 }
