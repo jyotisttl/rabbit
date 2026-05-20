@@ -1,0 +1,107 @@
+[
+  {
+    "WorkflowName": "UserCreation",
+    "Rules": [
+      {
+        "RuleName": "EmailRequired",
+        "RuleExpressionType": "LambdaExpression",
+        "Expression": "input.Email != null && input.Email.Length > 0",
+        "ErrorMessage": "Email is required"
+      },
+      {
+        "RuleName": "EmailFormat",
+        "RuleExpressionType": "LambdaExpression",
+        "Expression": "System.Text.RegularExpressions.Regex.IsMatch(input.Email, \"^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$\")",
+        "ErrorMessage": "Invalid email format"
+      },
+      {
+        "RuleName": "EmailNotExists",
+        "RuleExpressionType": "LambdaExpression",
+        "Expression": "db.EmailExistsAsync(input.Email).Result == false",
+        "ErrorMessage": "Email already exists in the system"
+      },
+      {
+        "RuleName": "UsernameRequired",
+        "RuleExpressionType": "LambdaExpression",
+        "Expression": "input.Username != null && input.Username.Length >= 3",
+        "ErrorMessage": "Username must be at least 3 characters"
+      },
+      {
+        "RuleName": "UsernameMaxLength",
+        "RuleExpressionType": "LambdaExpression",
+        "Expression": "input.Username.Length <= 50",
+        "ErrorMessage": "Username cannot exceed 50 characters"
+      },
+      {
+        "RuleName": "UsernameNotExists",
+        "RuleExpressionType": "LambdaExpression",
+        "Expression": "db.UsernameExistsAsync(input.Username).Result == false",
+        "ErrorMessage": "Username already exists in the system"
+      },
+      {
+        "RuleName": "EmployeeStatusRequired",
+        "RuleExpressionType": "LambdaExpression",
+        "Expression": "input.EmployeeStatus != null && input.EmployeeStatus.Length > 0",
+        "ErrorMessage": "Employee status is required"
+      },
+      {
+        "RuleName": "EmployeeStatusValid",
+        "RuleExpressionType": "LambdaExpression",
+        "Expression": "input.EmployeeStatus == \"Active\" || input.EmployeeStatus == \"Inactive\" || input.EmployeeStatus == \"OnLeave\" || input.EmployeeStatus == \"Terminated\"",
+        "ErrorMessage": "Employee status must be Active, Inactive, OnLeave, or Terminated"
+      }
+    ]
+  },
+  {
+    "WorkflowName": "UserUpdate",
+    "Rules": [
+      {
+        "RuleName": "EmailFormat",
+        "RuleExpressionType": "LambdaExpression",
+        "Expression": "input.Email == null || System.Text.RegularExpressions.Regex.IsMatch(input.Email, \"^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$\")",
+        "ErrorMessage": "Invalid email format"
+      },
+      {
+        "RuleName": "EmailNotExistsForOtherUser",
+        "RuleExpressionType": "LambdaExpression",
+        "Expression": "input.Email == null || db.EmailExistsAsync(input.Email).Result == false",
+        "ErrorMessage": "Email already exists for another user"
+      },
+      {
+        "RuleName": "UsernameMaxLength",
+        "RuleExpressionType": "LambdaExpression",
+        "Expression": "input.Username == null || input.Username.Length <= 50",
+        "ErrorMessage": "Username cannot exceed 50 characters"
+      },
+      {
+        "RuleName": "EmployeeStatusValid",
+        "RuleExpressionType": "LambdaExpression",
+        "Expression": "input.EmployeeStatus == null || input.EmployeeStatus == \"Active\" || input.EmployeeStatus == \"Inactive\" || input.EmployeeStatus == \"OnLeave\" || input.EmployeeStatus == \"Terminated\"",
+        "ErrorMessage": "Employee status must be Active, Inactive, OnLeave, or Terminated"
+      }
+    ]
+  },
+  {
+    "WorkflowName": "UserFetch",
+    "Rules": [
+      {
+        "RuleName": "EmailFormat",
+        "RuleExpressionType": "LambdaExpression",
+        "Expression": "System.Text.RegularExpressions.Regex.IsMatch(input.Email, \"^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$\")",
+        "ErrorMessage": "Stored email is invalid"
+      },
+      {
+        "RuleName": "UsernameMinLength",
+        "RuleExpressionType": "LambdaExpression",
+        "Expression": "input.Username != null && input.Username.Length >= 3",
+        "ErrorMessage": "Stored username is too short"
+      },
+      {
+        "RuleName": "EmployeeStatusValid",
+        "RuleExpressionType": "LambdaExpression",
+        "Expression": "input.EmployeeStatus == \"Active\" || input.EmployeeStatus == \"Inactive\" || input.EmployeeStatus == \"OnLeave\" || input.EmployeeStatus == \"Terminated\"",
+        "ErrorMessage": "Stored employee status is invalid"
+      }
+    ]
+  }
+]
