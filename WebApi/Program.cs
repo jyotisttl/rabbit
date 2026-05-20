@@ -7,11 +7,13 @@ using Application.Admin.Validators.Users;
 using Domain.Entities.Graphql;
 using Domain.Interfaces;
 using Domain.Interfaces.Graphql.User;
+using Domain.Interfaces.Rules;
 using FluentValidation;
 using Infrastructure.EFModels;
 using Infrastructure.Repositories.Graphql;
 using Infrastructure.Repositories.Graphql.User;
 using Infrastructure.Repositories.Users;
+using Infrastructure.Rules;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
@@ -56,6 +58,16 @@ builder.Services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBeh
 // Repositories
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserInfoRepository, UserInfoRepository>();
+
+// Rules Engine
+builder.Services.AddScoped<IRulesEngineService>(sp =>
+{
+    var env = sp.GetRequiredService<IWebHostEnvironment>();
+    var logger = sp.GetRequiredService<ILogger<RulesEngineService>>();
+    var rulesFilePath = Path.Combine(env.ContentRootPath, "Rules", "rules.json");
+    return new RulesEngineService(logger, rulesFilePath);
+});
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
